@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C24D690259DD3D1DF969F75347E568A3A83BC34F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C24D690259DD3D1DF969F75347E568A3A83BC34F" : 9223372036854775807,
+    "5CE3951295BC144C480780AF0ADD19B2719A1E9D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "51C3099A-7094-4D88-B3A4-1AEDEE22F5E4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C24D690259DD3D1DF969F75347E568A3A83BC34F" : "HelloWorld\/",
+    "5CE3951295BC144C480780AF0ADD19B2719A1E9D" : "..\/..\/Jenkins\/workspace\/test"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HelloWorld",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HelloWorld.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jithinjustice\/HelloWorldiOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5CE3951295BC144C480780AF0ADD19B2719A1E9D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TanviRelan\/HelloWorldios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C24D690259DD3D1DF969F75347E568A3A83BC34F"
+    }
+  ]
+}
